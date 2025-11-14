@@ -1,3 +1,6 @@
 bin/
 build/
 **/.DS_Store
+tests.out/
+.vscode
+test_results.json
